@@ -15,5 +15,6 @@ Run the section "Focus on one dataset and implement FSSS" in file `2_synthetic_g
 
 ### Figure 3
 - Run the file `3_realdata_l0.R` to obtain `RS_realdata.RDS`
-- Run the section "Figure 4" in file `3_realdata_getResults.R`
-- 
+- Run the section "Figure 3" in file `3_realdata_getResults.R`
+
+
